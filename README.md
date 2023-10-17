@@ -1,2 +1,2 @@
-# Maquetaci-n-con-tailwindCss
+# Maquetacion-con-tailwindCss
 Proyecto de maquetación usando TailwindCss
